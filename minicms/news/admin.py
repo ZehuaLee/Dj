@@ -11,3 +11,4 @@ admin.site.register(Column, ColumnAdmin)
 admin.site.register(Article, ArticleAdmin)
 
 # Register your models here.
+

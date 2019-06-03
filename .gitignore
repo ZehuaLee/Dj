@@ -1,0 +1,8 @@
+*.db
+*.idea
+*.ini
+*.pyc
+*.sqlite3
+*.xml
+*.iml
+*.pyo
