@@ -9,7 +9,7 @@ admin.autodiscover()
 
 urlpatterns = patterns('',
     # Examples:
-    # url(r'^$', 'DUSite.views.home', name='home'),
+    url(r'^$', 'DUSite.views.home', name='home'),
 
     # Uncomment the admin/doc line below to enable admin documentation:
     url(r'^admin/', include(admin.site.urls)),
